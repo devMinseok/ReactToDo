@@ -1,5 +1,8 @@
 # ReactToDo
 웹 프로그래밍 실무 과제
 
-## 미리보기
-![ReactToDo](/image/preview.png)
+## ToDo: 일정관리
+![ToDo](/image/preview.png)
+
+## Introduce: 자기소개
+![Introduce](/image/preview.png)
